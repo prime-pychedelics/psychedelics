@@ -1,0 +1,16 @@
+{
+  "name": "Prime Psychedelics",
+  "short_name": "Prime Psychedelics",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/img/logo-3.png",
+      "sizes": "456x548",
+      "type": "image/png"
+    }
+  ]
+}
